@@ -1,5 +1,5 @@
 package COM.JIA.GAMEB;
-//Â¹Â¥Â»Ã·Â½Ã“Â¿Ãš
+//¹¥»÷½Ó¿Ú
 public interface Attackable {
 	public int attack(LifeThing th,Person p,Construction c);
 //utf-8
